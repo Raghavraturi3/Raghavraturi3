@@ -5,7 +5,7 @@
     </td>
     <td align="right" width="120">
       <div>
-        <img src="https://profile-counter.glitch.me/raghavraturi9/count.svg?" width="100" />
+        <img src="https://profile-counter.glitch.me/raghavraturi3/count.svg?" width="100" />
       </div>
     </td>
   </tr>
@@ -15,10 +15,10 @@
 <h2 align="center">Leetcode Info</h2>  
 
 <p align="center">
-  <a href="https://leetcode.com/raghavraturi9/" target="_blank">
-    <img align="center" src="assets/LeetCode_75.gif" alt="raghavraturi9 - 75 problems solved" height="150" width="150" />
+  <a href="https://leetcode.com/raghavraturi3/" target="_blank">
+    <img align="center" src="assets/LeetCode_75.gif" alt="raghavraturi3 - 75 problems solved" height="150" width="150" />
   </a>
-   <a href="https://leetcode.com/its-raghavraturi9/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="150" width="150" /></a>
+   <a href="https://leetcode.com/its-raghavraturi3/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="150" width="150" /></a>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ class RaghavRaturi:
         self.LeetCode = '@raghavraturi3'
         self.linkedin = 'raghavraturi' 
         self.code = {
-            'language': ['JavaScript', 'Python', 'C++', 'Java', 'Rust'],
+            'language': ['JavaScript', 'Python', 'C++', 'Java', 'Go', 'TypeScript'],
             'web tech': ['React.Js', 'Node.js', 'NextJS', 'Express', 'Tailwind'],
             'database': ['MongoDB', 'PostgreSQL'],
             'tools': ['GIT', 'GitHub'],
