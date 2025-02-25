@@ -15,10 +15,12 @@
 <h2 align="center">Leetcode Info</h2>  
 
 <p align="center">
-  <a href="https://leetcode.com/raghavraturi3/" target="_blank">
-    <img align="center" src="assets/LeetCode_75.gif" alt="raghavraturi3 - 75 problems solved" height="150" width="150" />
+  <a href="https://leetcode.com/Raghav_raturi/" target="_blank">
+    <img align="center" src="assets/LeetCode_75.gif" alt="Raghav_raturi3 - 75 problems solved" height="150" width="150" />
   </a>
-   <a href="https://leetcode.com/its-raghavraturi3/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="150" width="150" /></a>
+   <a href="https://leetcode.com/its-Raghav_raturi/" target="_blank">
+     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="150" width="150" />
+   </a>
 </p>
 
 <p align="center">
@@ -26,7 +28,8 @@
 </p>
 
 🌌 Tech Universe
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 ⚡ Core Powers
 
 ```python
@@ -155,7 +158,9 @@ Technologies That I Know👨🏻‍💻
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
  </p>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00¢er=true&vCenter=true&width=800&lines=Let's+Build+Something+Amazing+Together!;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00¢er=true&vCenter=true&width=800&lines=Let's+Build+Something+Amazing+Together!;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer" width="100%" />
-</div> ```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer" width="100%" />
+</div> 
