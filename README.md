@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/Raghav_raturi/" target="_blank">
-    <img align="center" src="assets/LeetCode_75.gif" alt="Raghav_raturi3 - 75 problems solved" height="150" width="150" />
+    <img align="center" src="assets/LeetCode_75.gif" alt="Raghav_raturi - 75 problems solved" height="150" width="150" />
   </a>
    <a href="https://leetcode.com/its-Raghav_raturi/" target="_blank">
      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="150" width="150" />
