@@ -15,7 +15,7 @@
 <h2 align="center">Leetcode Info</h2>  
 
 <p align="center">
-  <a href="https://leetcode.com/Raghav_raturi/" target="_blank">
+  <a href="https://leetcode.com/raghav_raturi/" target="_blank">
     <img align="center" src="assets/LeetCode_75.gif" alt="Raghav_raturi - 75 problems solved" height="150" width="150" />
   </a>
    <a href="https://leetcode.com/its-Raghav_raturi/" target="_blank">
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/raghavraturi3?theme=dark&font=Nunito&ext=heatmap" />  
+  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/Raghav_raturi?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
 🌌 Tech Universe
@@ -118,10 +118,10 @@ const design_tools = {
 </p> <div id="user-content-toc">
   <ul align="center"> 
     <summary>
-  <h2 style="display: inline-block">
-Technologies That I Know👨🏻‍💻
+      <h2 style="display: inline-block">
+        Technologies That I Know👨🏻‍💻
   </h2>
-</summary>
+    </summary>
  </ul>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
@@ -146,9 +146,11 @@ Technologies That I Know👨🏻‍💻
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 🤝 Connect with me
-<p align="center"> <a href="https://linkedin.com/in/raghavraturi" target="_blank">
+<p align="center"> 
+  <a href="https://linkedin.com/in/raghavraturi" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a> <a href="https://instagram.com/raghavraturi3" target="_blank">
+ </a> 
+  <a href="https://instagram.com/raghavraturi3" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
  </a>
 <a href="https://www.leetcode.com/raghavraturi3" target="_blank">
