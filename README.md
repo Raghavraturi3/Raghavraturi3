@@ -59,13 +59,15 @@ if __name__ == '__main__':
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 🛸 Mission Control
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🎨 Design Arsenal
+# 🎨 Design Arsenal
 
-🛠️ Design Tools
-```
+### 🛠️ Design Tools
+
+```javascript
 const design_tools = {
     "UI/UX": ["Figma", "Adobe XD"],
     "Graphics": ["Photoshop", "Illustrator"],
@@ -94,8 +96,7 @@ const design_tools = {
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
- <h3 style="font-size: 24px;">
-   🔥 Github Streak Stats</h3>
+ <h3 style="font-size: 24px;">🔥 Github Streak Stats</h3>
  <div align="center">
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/raghavraturi3/raghavraturi3/output/github-contribution-grid-snake.svg" />
  </div>
@@ -105,7 +106,8 @@ const design_tools = {
 <tbody>
   <tr border="none"> 
     <td width="50%" align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavraturi3&theme=dark&show_icons=true&count_private=true"> <br><br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavraturi3&theme=dark&show_icons=true&count_private=true">
+      <br><br>
  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavraturi3&theme=dark&hide_border=false">
     </td>
  <td width="50%" align="center">
