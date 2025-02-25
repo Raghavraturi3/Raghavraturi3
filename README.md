@@ -33,13 +33,13 @@
 class RaghavRaturi:
 
     def __init__(self):
-        self.username = 'raghavraturi9'
+        self.username = 'raghavraturi3'
         self.name = 'Raghav Raturi'
         self.web = 'https://raghavraturiPortfolio'  
-        self.LeetCode = '@raghavraturi9'
+        self.LeetCode = '@raghavraturi3'
         self.linkedin = 'raghavraturi' 
         self.code = {
-            'language': ['JavaScript', 'Python', 'C++', 'Java', 'Go', 'TypeScript'],
+            'language': ['JavaScript', 'Python', 'C++', 'Java', 'Rust'],
             'web tech': ['React.Js', 'Node.js', 'NextJS', 'Express', 'Tailwind'],
             'database': ['MongoDB', 'PostgreSQL'],
             'tools': ['GIT', 'GitHub'],
@@ -82,7 +82,7 @@ const design_tools = {
 <div align="left">
   <h3>My Contribution</h3>
   <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavraturi9&theme=react-dark" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavraturi3&theme=react-dark" width="100%" />
 </div>
 </div>
 
@@ -92,13 +92,13 @@ const design_tools = {
   <a href="https://linkedin.com/in/raghav-raturi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/raghavraturi9" target="_blank">
+  <a href="https://instagram.com/raghavraturi3" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.leetcode.com/raghavraturi9" target="_blank">
+  <a href="https://www.leetcode.com/raghavraturi3" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="mailto:raghavraturi168@gmail.com">
+  <a href="mailto:raghavraturi8c@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
