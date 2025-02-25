@@ -53,14 +53,16 @@ class RaghavRaturi:
 if __name__ == '__main__':
     me = RaghavRaturi()
     print(me)
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 🛸 Mission Control
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 🎨 Design Arsenal
-🛠️ Design Tools
 
+🛠️ Design Tools
+```
 const design_tools = {
     "UI/UX": ["Figma", "Adobe XD"],
     "Graphics": ["Photoshop", "Illustrator"],
